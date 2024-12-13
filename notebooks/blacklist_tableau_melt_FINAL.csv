@@ -1,0 +1,736 @@
+,Country Code,Country,Date,Blacklist
+0,ASM,American Samoa,05-12-2017,1
+1,ANG,Anguilla,05-12-2017,0
+2,ATG,Antigua and Barbuda,05-12-2017,0
+3,ABW,Aruba,05-12-2017,0
+4,BHS,Bahamas,05-12-2017,0
+5,BHR,Bahrain,05-12-2017,1
+6,BRB,Barbados,05-12-2017,1
+7,BLZ,Belize,05-12-2017,0
+8,BMU,Bermuda,05-12-2017,0
+9,VGB,British Virgin Islands,05-12-2017,0
+10,CYM,Cayman Islands,05-12-2017,0
+11,CRI,Costa Rica,05-12-2017,0
+12,DMA,Dominica,05-12-2017,0
+13,FJI,Fiji,05-12-2017,0
+14,GRD,Grenada,05-12-2017,1
+15,GUM,Guam,05-12-2017,1
+16,MAC,Macau,05-12-2017,1
+17,MHL,Marshall Islands,05-12-2017,1
+18,MNG,Mongolia,05-12-2017,1
+19,NAM,Namibia,05-12-2017,1
+20,OMN,Oman,05-12-2017,0
+21,PLW,Palau,05-12-2017,1
+22,PAN,Panama,05-12-2017,1
+23,RUS,Russia,05-12-2017,0
+24,KNA,Saint Kitts and Nevis,05-12-2017,0
+25,LCA,Saint Lucia,05-12-2017,1
+26,WSM,Samoa,05-12-2017,1
+27,SYC,Seychelles,05-12-2017,0
+28,KOR,South Korea,05-12-2017,1
+29,TTO,Trinidad and Tobago,05-12-2017,1
+30,TUN,Tunisia,05-12-2017,1
+31,TCA,Turks and Caicos Islands,05-12-2017,0
+32,ARE,United Arab Emirates,05-12-2017,1
+33,VUT,US Virgin Islands,05-12-2017,0
+34,VIR,Vanuatu,05-12-2017,0
+35,ASM,American Samoa,23-01-2018,1
+36,ANG,Anguilla,23-01-2018,0
+37,ATG,Antigua and Barbuda,23-01-2018,0
+38,ABW,Aruba,23-01-2018,0
+39,BHS,Bahamas,23-01-2018,0
+40,BHR,Bahrain,23-01-2018,1
+41,BRB,Barbados,23-01-2018,0
+42,BLZ,Belize,23-01-2018,0
+43,BMU,Bermuda,23-01-2018,0
+44,VGB,British Virgin Islands,23-01-2018,0
+45,CYM,Cayman Islands,23-01-2018,0
+46,CRI,Costa Rica,23-01-2018,0
+47,DMA,Dominica,23-01-2018,0
+48,FJI,Fiji,23-01-2018,0
+49,GRD,Grenada,23-01-2018,0
+50,GUM,Guam,23-01-2018,1
+51,MAC,Macau,23-01-2018,0
+52,MHL,Marshall Islands,23-01-2018,1
+53,MNG,Mongolia,23-01-2018,0
+54,NAM,Namibia,23-01-2018,1
+55,OMN,Oman,23-01-2018,0
+56,PLW,Palau,23-01-2018,1
+57,PAN,Panama,23-01-2018,0
+58,RUS,Russia,23-01-2018,0
+59,KNA,Saint Kitts and Nevis,23-01-2018,0
+60,LCA,Saint Lucia,23-01-2018,1
+61,WSM,Samoa,23-01-2018,1
+62,SYC,Seychelles,23-01-2018,0
+63,KOR,South Korea,23-01-2018,0
+64,TTO,Trinidad and Tobago,23-01-2018,1
+65,TUN,Tunisia,23-01-2018,0
+66,TCA,Turks and Caicos Islands,23-01-2018,0
+67,ARE,United Arab Emirates,23-01-2018,0
+68,VUT,US Virgin Islands,23-01-2018,0
+69,VIR,Vanuatu,23-01-2018,0
+70,ASM,American Samoa,13-03-2018,1
+71,ANG,Anguilla,13-03-2018,0
+72,ATG,Antigua and Barbuda,13-03-2018,0
+73,ABW,Aruba,13-03-2018,0
+74,BHS,Bahamas,13-03-2018,1
+75,BHR,Bahrain,13-03-2018,0
+76,BRB,Barbados,13-03-2018,0
+77,BLZ,Belize,13-03-2018,0
+78,BMU,Bermuda,13-03-2018,0
+79,VGB,British Virgin Islands,13-03-2018,0
+80,CYM,Cayman Islands,13-03-2018,0
+81,CRI,Costa Rica,13-03-2018,0
+82,DMA,Dominica,13-03-2018,0
+83,FJI,Fiji,13-03-2018,0
+84,GRD,Grenada,13-03-2018,0
+85,GUM,Guam,13-03-2018,1
+86,MAC,Macau,13-03-2018,0
+87,MHL,Marshall Islands,13-03-2018,0
+88,MNG,Mongolia,13-03-2018,0
+89,NAM,Namibia,13-03-2018,1
+90,OMN,Oman,13-03-2018,0
+91,PLW,Palau,13-03-2018,1
+92,PAN,Panama,13-03-2018,0
+93,RUS,Russia,13-03-2018,0
+94,KNA,Saint Kitts and Nevis,13-03-2018,1
+95,LCA,Saint Lucia,13-03-2018,0
+96,WSM,Samoa,13-03-2018,1
+97,SYC,Seychelles,13-03-2018,0
+98,KOR,South Korea,13-03-2018,0
+99,TTO,Trinidad and Tobago,13-03-2018,1
+100,TUN,Tunisia,13-03-2018,0
+101,TCA,Turks and Caicos Islands,13-03-2018,0
+102,ARE,United Arab Emirates,13-03-2018,0
+103,VUT,US Virgin Islands,13-03-2018,1
+104,VIR,Vanuatu,13-03-2018,0
+105,ASM,American Samoa,25-05-2018,1
+106,ANG,Anguilla,25-05-2018,0
+107,ATG,Antigua and Barbuda,25-05-2018,0
+108,ABW,Aruba,25-05-2018,0
+109,BHS,Bahamas,25-05-2018,0
+110,BHR,Bahrain,25-05-2018,0
+111,BRB,Barbados,25-05-2018,0
+112,BLZ,Belize,25-05-2018,0
+113,BMU,Bermuda,25-05-2018,0
+114,VGB,British Virgin Islands,25-05-2018,0
+115,CYM,Cayman Islands,25-05-2018,0
+116,CRI,Costa Rica,25-05-2018,0
+117,DMA,Dominica,25-05-2018,0
+118,FJI,Fiji,25-05-2018,0
+119,GRD,Grenada,25-05-2018,0
+120,GUM,Guam,25-05-2018,1
+121,MAC,Macau,25-05-2018,0
+122,MHL,Marshall Islands,25-05-2018,0
+123,MNG,Mongolia,25-05-2018,0
+124,NAM,Namibia,25-05-2018,1
+125,OMN,Oman,25-05-2018,0
+126,PLW,Palau,25-05-2018,1
+127,PAN,Panama,25-05-2018,0
+128,RUS,Russia,25-05-2018,0
+129,KNA,Saint Kitts and Nevis,25-05-2018,0
+130,LCA,Saint Lucia,25-05-2018,0
+131,WSM,Samoa,25-05-2018,1
+132,SYC,Seychelles,25-05-2018,0
+133,KOR,South Korea,25-05-2018,0
+134,TTO,Trinidad and Tobago,25-05-2018,1
+135,TUN,Tunisia,25-05-2018,0
+136,TCA,Turks and Caicos Islands,25-05-2018,0
+137,ARE,United Arab Emirates,25-05-2018,0
+138,VUT,US Virgin Islands,25-05-2018,1
+139,VIR,Vanuatu,25-05-2018,0
+140,ASM,American Samoa,02-10-2018,1
+141,ANG,Anguilla,02-10-2018,0
+142,ATG,Antigua and Barbuda,02-10-2018,0
+143,ABW,Aruba,02-10-2018,0
+144,BHS,Bahamas,02-10-2018,0
+145,BHR,Bahrain,02-10-2018,0
+146,BRB,Barbados,02-10-2018,0
+147,BLZ,Belize,02-10-2018,0
+148,BMU,Bermuda,02-10-2018,0
+149,VGB,British Virgin Islands,02-10-2018,0
+150,CYM,Cayman Islands,02-10-2018,0
+151,CRI,Costa Rica,02-10-2018,0
+152,DMA,Dominica,02-10-2018,0
+153,FJI,Fiji,02-10-2018,0
+154,GRD,Grenada,02-10-2018,0
+155,GUM,Guam,02-10-2018,1
+156,MAC,Macau,02-10-2018,0
+157,MHL,Marshall Islands,02-10-2018,0
+158,MNG,Mongolia,02-10-2018,0
+159,NAM,Namibia,02-10-2018,1
+160,OMN,Oman,02-10-2018,0
+161,PLW,Palau,02-10-2018,0
+162,PAN,Panama,02-10-2018,0
+163,RUS,Russia,02-10-2018,0
+164,KNA,Saint Kitts and Nevis,02-10-2018,0
+165,LCA,Saint Lucia,02-10-2018,0
+166,WSM,Samoa,02-10-2018,1
+167,SYC,Seychelles,02-10-2018,0
+168,KOR,South Korea,02-10-2018,0
+169,TTO,Trinidad and Tobago,02-10-2018,1
+170,TUN,Tunisia,02-10-2018,0
+171,TCA,Turks and Caicos Islands,02-10-2018,0
+172,ARE,United Arab Emirates,02-10-2018,0
+173,VUT,US Virgin Islands,02-10-2018,1
+174,VIR,Vanuatu,02-10-2018,0
+175,ASM,American Samoa,06-11-2018,1
+176,ANG,Anguilla,06-11-2018,0
+177,ATG,Antigua and Barbuda,06-11-2018,0
+178,ABW,Aruba,06-11-2018,0
+179,BHS,Bahamas,06-11-2018,0
+180,BHR,Bahrain,06-11-2018,0
+181,BRB,Barbados,06-11-2018,0
+182,BLZ,Belize,06-11-2018,0
+183,BMU,Bermuda,06-11-2018,0
+184,VGB,British Virgin Islands,06-11-2018,0
+185,CYM,Cayman Islands,06-11-2018,0
+186,CRI,Costa Rica,06-11-2018,0
+187,DMA,Dominica,06-11-2018,0
+188,FJI,Fiji,06-11-2018,0
+189,GRD,Grenada,06-11-2018,0
+190,GUM,Guam,06-11-2018,1
+191,MAC,Macau,06-11-2018,0
+192,MHL,Marshall Islands,06-11-2018,0
+193,MNG,Mongolia,06-11-2018,0
+194,NAM,Namibia,06-11-2018,0
+195,OMN,Oman,06-11-2018,0
+196,PLW,Palau,06-11-2018,0
+197,PAN,Panama,06-11-2018,0
+198,RUS,Russia,06-11-2018,0
+199,KNA,Saint Kitts and Nevis,06-11-2018,0
+200,LCA,Saint Lucia,06-11-2018,0
+201,WSM,Samoa,06-11-2018,1
+202,SYC,Seychelles,06-11-2018,0
+203,KOR,South Korea,06-11-2018,0
+204,TTO,Trinidad and Tobago,06-11-2018,1
+205,TUN,Tunisia,06-11-2018,0
+206,TCA,Turks and Caicos Islands,06-11-2018,0
+207,ARE,United Arab Emirates,06-11-2018,0
+208,VUT,US Virgin Islands,06-11-2018,1
+209,VIR,Vanuatu,06-11-2018,0
+210,ASM,American Samoa,12-03-2019,1
+211,ANG,Anguilla,12-03-2019,0
+212,ATG,Antigua and Barbuda,12-03-2019,0
+213,ABW,Aruba,12-03-2019,1
+214,BHS,Bahamas,12-03-2019,0
+215,BHR,Bahrain,12-03-2019,0
+216,BRB,Barbados,12-03-2019,1
+217,BLZ,Belize,12-03-2019,1
+218,BMU,Bermuda,12-03-2019,1
+219,VGB,British Virgin Islands,12-03-2019,0
+220,CYM,Cayman Islands,12-03-2019,0
+221,CRI,Costa Rica,12-03-2019,0
+222,DMA,Dominica,12-03-2019,1
+223,FJI,Fiji,12-03-2019,1
+224,GRD,Grenada,12-03-2019,0
+225,GUM,Guam,12-03-2019,1
+226,MAC,Macau,12-03-2019,0
+227,MHL,Marshall Islands,12-03-2019,1
+228,MNG,Mongolia,12-03-2019,0
+229,NAM,Namibia,12-03-2019,0
+230,OMN,Oman,12-03-2019,1
+231,PLW,Palau,12-03-2019,0
+232,PAN,Panama,12-03-2019,0
+233,RUS,Russia,12-03-2019,0
+234,KNA,Saint Kitts and Nevis,12-03-2019,0
+235,LCA,Saint Lucia,12-03-2019,0
+236,WSM,Samoa,12-03-2019,1
+237,SYC,Seychelles,12-03-2019,0
+238,KOR,South Korea,12-03-2019,0
+239,TTO,Trinidad and Tobago,12-03-2019,1
+240,TUN,Tunisia,12-03-2019,0
+241,TCA,Turks and Caicos Islands,12-03-2019,0
+242,ARE,United Arab Emirates,12-03-2019,1
+243,VUT,US Virgin Islands,12-03-2019,1
+244,VIR,Vanuatu,12-03-2019,1
+245,ASM,American Samoa,17-05-2019,1
+246,ANG,Anguilla,17-05-2019,0
+247,ATG,Antigua and Barbuda,17-05-2019,0
+248,ABW,Aruba,17-05-2019,0
+249,BHS,Bahamas,17-05-2019,0
+250,BHR,Bahrain,17-05-2019,0
+251,BRB,Barbados,17-05-2019,0
+252,BLZ,Belize,17-05-2019,1
+253,BMU,Bermuda,17-05-2019,0
+254,VGB,British Virgin Islands,17-05-2019,0
+255,CYM,Cayman Islands,17-05-2019,0
+256,CRI,Costa Rica,17-05-2019,0
+257,DMA,Dominica,17-05-2019,1
+258,FJI,Fiji,17-05-2019,1
+259,GRD,Grenada,17-05-2019,0
+260,GUM,Guam,17-05-2019,1
+261,MAC,Macau,17-05-2019,0
+262,MHL,Marshall Islands,17-05-2019,1
+263,MNG,Mongolia,17-05-2019,0
+264,NAM,Namibia,17-05-2019,0
+265,OMN,Oman,17-05-2019,1
+266,PLW,Palau,17-05-2019,0
+267,PAN,Panama,17-05-2019,0
+268,RUS,Russia,17-05-2019,0
+269,KNA,Saint Kitts and Nevis,17-05-2019,0
+270,LCA,Saint Lucia,17-05-2019,0
+271,WSM,Samoa,17-05-2019,1
+272,SYC,Seychelles,17-05-2019,0
+273,KOR,South Korea,17-05-2019,0
+274,TTO,Trinidad and Tobago,17-05-2019,1
+275,TUN,Tunisia,17-05-2019,0
+276,TCA,Turks and Caicos Islands,17-05-2019,0
+277,ARE,United Arab Emirates,17-05-2019,1
+278,VUT,US Virgin Islands,17-05-2019,1
+279,VIR,Vanuatu,17-05-2019,1
+280,ASM,American Samoa,14-06-2019,1
+281,ANG,Anguilla,14-06-2019,0
+282,ATG,Antigua and Barbuda,14-06-2019,0
+283,ABW,Aruba,14-06-2019,0
+284,BHS,Bahamas,14-06-2019,0
+285,BHR,Bahrain,14-06-2019,0
+286,BRB,Barbados,14-06-2019,0
+287,BLZ,Belize,14-06-2019,1
+288,BMU,Bermuda,14-06-2019,0
+289,VGB,British Virgin Islands,14-06-2019,0
+290,CYM,Cayman Islands,14-06-2019,0
+291,CRI,Costa Rica,14-06-2019,0
+292,DMA,Dominica,14-06-2019,0
+293,FJI,Fiji,14-06-2019,1
+294,GRD,Grenada,14-06-2019,0
+295,GUM,Guam,14-06-2019,1
+296,MAC,Macau,14-06-2019,0
+297,MHL,Marshall Islands,14-06-2019,1
+298,MNG,Mongolia,14-06-2019,0
+299,NAM,Namibia,14-06-2019,0
+300,OMN,Oman,14-06-2019,1
+301,PLW,Palau,14-06-2019,0
+302,PAN,Panama,14-06-2019,0
+303,RUS,Russia,14-06-2019,0
+304,KNA,Saint Kitts and Nevis,14-06-2019,0
+305,LCA,Saint Lucia,14-06-2019,0
+306,WSM,Samoa,14-06-2019,1
+307,SYC,Seychelles,14-06-2019,0
+308,KOR,South Korea,14-06-2019,0
+309,TTO,Trinidad and Tobago,14-06-2019,1
+310,TUN,Tunisia,14-06-2019,0
+311,TCA,Turks and Caicos Islands,14-06-2019,0
+312,ARE,United Arab Emirates,14-06-2019,1
+313,VUT,US Virgin Islands,14-06-2019,1
+314,VIR,Vanuatu,14-06-2019,1
+315,ASM,American Samoa,10-10-2019,1
+316,ANG,Anguilla,10-10-2019,0
+317,ATG,Antigua and Barbuda,10-10-2019,0
+318,ABW,Aruba,10-10-2019,0
+319,BHS,Bahamas,10-10-2019,0
+320,BHR,Bahrain,10-10-2019,0
+321,BRB,Barbados,10-10-2019,0
+322,BLZ,Belize,10-10-2019,1
+323,BMU,Bermuda,10-10-2019,0
+324,VGB,British Virgin Islands,10-10-2019,0
+325,CYM,Cayman Islands,10-10-2019,0
+326,CRI,Costa Rica,10-10-2019,0
+327,DMA,Dominica,10-10-2019,0
+328,FJI,Fiji,10-10-2019,1
+329,GRD,Grenada,10-10-2019,0
+330,GUM,Guam,10-10-2019,1
+331,MAC,Macau,10-10-2019,0
+332,MHL,Marshall Islands,10-10-2019,0
+333,MNG,Mongolia,10-10-2019,0
+334,NAM,Namibia,10-10-2019,0
+335,OMN,Oman,10-10-2019,1
+336,PLW,Palau,10-10-2019,0
+337,PAN,Panama,10-10-2019,0
+338,RUS,Russia,10-10-2019,0
+339,KNA,Saint Kitts and Nevis,10-10-2019,0
+340,LCA,Saint Lucia,10-10-2019,0
+341,WSM,Samoa,10-10-2019,1
+342,SYC,Seychelles,10-10-2019,0
+343,KOR,South Korea,10-10-2019,0
+344,TTO,Trinidad and Tobago,10-10-2019,1
+345,TUN,Tunisia,10-10-2019,0
+346,TCA,Turks and Caicos Islands,10-10-2019,0
+347,ARE,United Arab Emirates,10-10-2019,0
+348,VUT,US Virgin Islands,10-10-2019,1
+349,VIR,Vanuatu,10-10-2019,1
+350,ASM,American Samoa,08-11-2019,1
+351,ANG,Anguilla,08-11-2019,0
+352,ATG,Antigua and Barbuda,08-11-2019,0
+353,ABW,Aruba,08-11-2019,0
+354,BHS,Bahamas,08-11-2019,0
+355,BHR,Bahrain,08-11-2019,0
+356,BRB,Barbados,08-11-2019,0
+357,BLZ,Belize,08-11-2019,0
+358,BMU,Bermuda,08-11-2019,0
+359,VGB,British Virgin Islands,08-11-2019,0
+360,CYM,Cayman Islands,08-11-2019,0
+361,CRI,Costa Rica,08-11-2019,0
+362,DMA,Dominica,08-11-2019,0
+363,FJI,Fiji,08-11-2019,1
+364,GRD,Grenada,08-11-2019,0
+365,GUM,Guam,08-11-2019,1
+366,MAC,Macau,08-11-2019,0
+367,MHL,Marshall Islands,08-11-2019,0
+368,MNG,Mongolia,08-11-2019,0
+369,NAM,Namibia,08-11-2019,0
+370,OMN,Oman,08-11-2019,1
+371,PLW,Palau,08-11-2019,0
+372,PAN,Panama,08-11-2019,0
+373,RUS,Russia,08-11-2019,0
+374,KNA,Saint Kitts and Nevis,08-11-2019,0
+375,LCA,Saint Lucia,08-11-2019,0
+376,WSM,Samoa,08-11-2019,1
+377,SYC,Seychelles,08-11-2019,0
+378,KOR,South Korea,08-11-2019,0
+379,TTO,Trinidad and Tobago,08-11-2019,1
+380,TUN,Tunisia,08-11-2019,0
+381,TCA,Turks and Caicos Islands,08-11-2019,0
+382,ARE,United Arab Emirates,08-11-2019,0
+383,VUT,US Virgin Islands,08-11-2019,1
+384,VIR,Vanuatu,08-11-2019,1
+385,ASM,American Samoa,18-02-2020,1
+386,ANG,Anguilla,18-02-2020,0
+387,ATG,Antigua and Barbuda,18-02-2020,0
+388,ABW,Aruba,18-02-2020,0
+389,BHS,Bahamas,18-02-2020,0
+390,BHR,Bahrain,18-02-2020,0
+391,BRB,Barbados,18-02-2020,0
+392,BLZ,Belize,18-02-2020,0
+393,BMU,Bermuda,18-02-2020,0
+394,VGB,British Virgin Islands,18-02-2020,0
+395,CYM,Cayman Islands,18-02-2020,1
+396,CRI,Costa Rica,18-02-2020,0
+397,DMA,Dominica,18-02-2020,0
+398,FJI,Fiji,18-02-2020,1
+399,GRD,Grenada,18-02-2020,0
+400,GUM,Guam,18-02-2020,1
+401,MAC,Macau,18-02-2020,0
+402,MHL,Marshall Islands,18-02-2020,0
+403,MNG,Mongolia,18-02-2020,0
+404,NAM,Namibia,18-02-2020,0
+405,OMN,Oman,18-02-2020,1
+406,PLW,Palau,18-02-2020,1
+407,PAN,Panama,18-02-2020,1
+408,RUS,Russia,18-02-2020,0
+409,KNA,Saint Kitts and Nevis,18-02-2020,0
+410,LCA,Saint Lucia,18-02-2020,0
+411,WSM,Samoa,18-02-2020,1
+412,SYC,Seychelles,18-02-2020,1
+413,KOR,South Korea,18-02-2020,0
+414,TTO,Trinidad and Tobago,18-02-2020,1
+415,TUN,Tunisia,18-02-2020,0
+416,TCA,Turks and Caicos Islands,18-02-2020,0
+417,ARE,United Arab Emirates,18-02-2020,0
+418,VUT,US Virgin Islands,18-02-2020,1
+419,VIR,Vanuatu,18-02-2020,1
+420,ASM,American Samoa,06-10-2020,1
+421,ANG,Anguilla,06-10-2020,1
+422,ATG,Antigua and Barbuda,06-10-2020,0
+423,ABW,Aruba,06-10-2020,0
+424,BHS,Bahamas,06-10-2020,0
+425,BHR,Bahrain,06-10-2020,0
+426,BRB,Barbados,06-10-2020,1
+427,BLZ,Belize,06-10-2020,0
+428,BMU,Bermuda,06-10-2020,0
+429,VGB,British Virgin Islands,06-10-2020,0
+430,CYM,Cayman Islands,06-10-2020,0
+431,CRI,Costa Rica,06-10-2020,0
+432,DMA,Dominica,06-10-2020,0
+433,FJI,Fiji,06-10-2020,1
+434,GRD,Grenada,06-10-2020,0
+435,GUM,Guam,06-10-2020,1
+436,MAC,Macau,06-10-2020,0
+437,MHL,Marshall Islands,06-10-2020,0
+438,MNG,Mongolia,06-10-2020,0
+439,NAM,Namibia,06-10-2020,0
+440,OMN,Oman,06-10-2020,0
+441,PLW,Palau,06-10-2020,1
+442,PAN,Panama,06-10-2020,1
+443,RUS,Russia,06-10-2020,0
+444,KNA,Saint Kitts and Nevis,06-10-2020,0
+445,LCA,Saint Lucia,06-10-2020,0
+446,WSM,Samoa,06-10-2020,1
+447,SYC,Seychelles,06-10-2020,1
+448,KOR,South Korea,06-10-2020,0
+449,TTO,Trinidad and Tobago,06-10-2020,1
+450,TUN,Tunisia,06-10-2020,0
+451,TCA,Turks and Caicos Islands,06-10-2020,0
+452,ARE,United Arab Emirates,06-10-2020,0
+453,VUT,US Virgin Islands,06-10-2020,1
+454,VIR,Vanuatu,06-10-2020,1
+455,ASM,American Samoa,22-02-2021,1
+456,ANG,Anguilla,22-02-2021,1
+457,ATG,Antigua and Barbuda,22-02-2021,0
+458,ABW,Aruba,22-02-2021,0
+459,BHS,Bahamas,22-02-2021,0
+460,BHR,Bahrain,22-02-2021,0
+461,BRB,Barbados,22-02-2021,0
+462,BLZ,Belize,22-02-2021,0
+463,BMU,Bermuda,22-02-2021,0
+464,VGB,British Virgin Islands,22-02-2021,0
+465,CYM,Cayman Islands,22-02-2021,0
+466,CRI,Costa Rica,22-02-2021,0
+467,DMA,Dominica,22-02-2021,1
+468,FJI,Fiji,22-02-2021,1
+469,GRD,Grenada,22-02-2021,0
+470,GUM,Guam,22-02-2021,1
+471,MAC,Macau,22-02-2021,0
+472,MHL,Marshall Islands,22-02-2021,0
+473,MNG,Mongolia,22-02-2021,0
+474,NAM,Namibia,22-02-2021,0
+475,OMN,Oman,22-02-2021,0
+476,PLW,Palau,22-02-2021,1
+477,PAN,Panama,22-02-2021,1
+478,RUS,Russia,22-02-2021,0
+479,KNA,Saint Kitts and Nevis,22-02-2021,0
+480,LCA,Saint Lucia,22-02-2021,0
+481,WSM,Samoa,22-02-2021,1
+482,SYC,Seychelles,22-02-2021,1
+483,KOR,South Korea,22-02-2021,0
+484,TTO,Trinidad and Tobago,22-02-2021,1
+485,TUN,Tunisia,22-02-2021,0
+486,TCA,Turks and Caicos Islands,22-02-2021,0
+487,ARE,United Arab Emirates,22-02-2021,0
+488,VUT,US Virgin Islands,22-02-2021,1
+489,VIR,Vanuatu,22-02-2021,1
+490,ASM,American Samoa,05-10-2021,1
+491,ANG,Anguilla,05-10-2021,0
+492,ATG,Antigua and Barbuda,05-10-2021,0
+493,ABW,Aruba,05-10-2021,0
+494,BHS,Bahamas,05-10-2021,0
+495,BHR,Bahrain,05-10-2021,0
+496,BRB,Barbados,05-10-2021,0
+497,BLZ,Belize,05-10-2021,0
+498,BMU,Bermuda,05-10-2021,0
+499,VGB,British Virgin Islands,05-10-2021,0
+500,CYM,Cayman Islands,05-10-2021,0
+501,CRI,Costa Rica,05-10-2021,0
+502,DMA,Dominica,05-10-2021,0
+503,FJI,Fiji,05-10-2021,1
+504,GRD,Grenada,05-10-2021,0
+505,GUM,Guam,05-10-2021,1
+506,MAC,Macau,05-10-2021,0
+507,MHL,Marshall Islands,05-10-2021,0
+508,MNG,Mongolia,05-10-2021,0
+509,NAM,Namibia,05-10-2021,0
+510,OMN,Oman,05-10-2021,0
+511,PLW,Palau,05-10-2021,1
+512,PAN,Panama,05-10-2021,1
+513,RUS,Russia,05-10-2021,0
+514,KNA,Saint Kitts and Nevis,05-10-2021,0
+515,LCA,Saint Lucia,05-10-2021,0
+516,WSM,Samoa,05-10-2021,1
+517,SYC,Seychelles,05-10-2021,0
+518,KOR,South Korea,05-10-2021,0
+519,TTO,Trinidad and Tobago,05-10-2021,1
+520,TUN,Tunisia,05-10-2021,0
+521,TCA,Turks and Caicos Islands,05-10-2021,0
+522,ARE,United Arab Emirates,05-10-2021,0
+523,VUT,US Virgin Islands,05-10-2021,1
+524,VIR,Vanuatu,05-10-2021,1
+525,ASM,American Samoa,24-02-2022,1
+526,ANG,Anguilla,24-02-2022,0
+527,ATG,Antigua and Barbuda,24-02-2022,0
+528,ABW,Aruba,24-02-2022,0
+529,BHS,Bahamas,24-02-2022,0
+530,BHR,Bahrain,24-02-2022,0
+531,BRB,Barbados,24-02-2022,0
+532,BLZ,Belize,24-02-2022,0
+533,BMU,Bermuda,24-02-2022,0
+534,VGB,British Virgin Islands,24-02-2022,0
+535,CYM,Cayman Islands,24-02-2022,0
+536,CRI,Costa Rica,24-02-2022,0
+537,DMA,Dominica,24-02-2022,0
+538,FJI,Fiji,24-02-2022,1
+539,GRD,Grenada,24-02-2022,0
+540,GUM,Guam,24-02-2022,1
+541,MAC,Macau,24-02-2022,0
+542,MHL,Marshall Islands,24-02-2022,0
+543,MNG,Mongolia,24-02-2022,0
+544,NAM,Namibia,24-02-2022,0
+545,OMN,Oman,24-02-2022,0
+546,PLW,Palau,24-02-2022,1
+547,PAN,Panama,24-02-2022,1
+548,RUS,Russia,24-02-2022,0
+549,KNA,Saint Kitts and Nevis,24-02-2022,0
+550,LCA,Saint Lucia,24-02-2022,0
+551,WSM,Samoa,24-02-2022,1
+552,SYC,Seychelles,24-02-2022,0
+553,KOR,South Korea,24-02-2022,0
+554,TTO,Trinidad and Tobago,24-02-2022,1
+555,TUN,Tunisia,24-02-2022,0
+556,TCA,Turks and Caicos Islands,24-02-2022,0
+557,ARE,United Arab Emirates,24-02-2022,0
+558,VUT,US Virgin Islands,24-02-2022,1
+559,VIR,Vanuatu,24-02-2022,1
+560,ASM,American Samoa,04-10-2022,1
+561,ANG,Anguilla,04-10-2022,1
+562,ATG,Antigua and Barbuda,04-10-2022,0
+563,ABW,Aruba,04-10-2022,0
+564,BHS,Bahamas,04-10-2022,1
+565,BHR,Bahrain,04-10-2022,0
+566,BRB,Barbados,04-10-2022,0
+567,BLZ,Belize,04-10-2022,0
+568,BMU,Bermuda,04-10-2022,0
+569,VGB,British Virgin Islands,04-10-2022,0
+570,CYM,Cayman Islands,04-10-2022,0
+571,CRI,Costa Rica,04-10-2022,0
+572,DMA,Dominica,04-10-2022,0
+573,FJI,Fiji,04-10-2022,1
+574,GRD,Grenada,04-10-2022,0
+575,GUM,Guam,04-10-2022,1
+576,MAC,Macau,04-10-2022,0
+577,MHL,Marshall Islands,04-10-2022,0
+578,MNG,Mongolia,04-10-2022,0
+579,NAM,Namibia,04-10-2022,0
+580,OMN,Oman,04-10-2022,0
+581,PLW,Palau,04-10-2022,1
+582,PAN,Panama,04-10-2022,1
+583,RUS,Russia,04-10-2022,0
+584,KNA,Saint Kitts and Nevis,04-10-2022,0
+585,LCA,Saint Lucia,04-10-2022,0
+586,WSM,Samoa,04-10-2022,1
+587,SYC,Seychelles,04-10-2022,0
+588,KOR,South Korea,04-10-2022,0
+589,TTO,Trinidad and Tobago,04-10-2022,1
+590,TUN,Tunisia,04-10-2022,0
+591,TCA,Turks and Caicos Islands,04-10-2022,1
+592,ARE,United Arab Emirates,04-10-2022,0
+593,VUT,US Virgin Islands,04-10-2022,1
+594,VIR,Vanuatu,04-10-2022,1
+595,ASM,American Samoa,14-02-2023,1
+596,ANG,Anguilla,14-02-2023,1
+597,ATG,Antigua and Barbuda,14-02-2023,0
+598,ABW,Aruba,14-02-2023,0
+599,BHS,Bahamas,14-02-2023,1
+600,BHR,Bahrain,14-02-2023,0
+601,BRB,Barbados,14-02-2023,0
+602,BLZ,Belize,14-02-2023,0
+603,BMU,Bermuda,14-02-2023,0
+604,VGB,British Virgin Islands,14-02-2023,1
+605,CYM,Cayman Islands,14-02-2023,0
+606,CRI,Costa Rica,14-02-2023,1
+607,DMA,Dominica,14-02-2023,0
+608,FJI,Fiji,14-02-2023,1
+609,GRD,Grenada,14-02-2023,0
+610,GUM,Guam,14-02-2023,1
+611,MAC,Macau,14-02-2023,0
+612,MHL,Marshall Islands,14-02-2023,1
+613,MNG,Mongolia,14-02-2023,0
+614,NAM,Namibia,14-02-2023,0
+615,OMN,Oman,14-02-2023,0
+616,PLW,Palau,14-02-2023,1
+617,PAN,Panama,14-02-2023,1
+618,RUS,Russia,14-02-2023,1
+619,KNA,Saint Kitts and Nevis,14-02-2023,0
+620,LCA,Saint Lucia,14-02-2023,0
+621,WSM,Samoa,14-02-2023,1
+622,SYC,Seychelles,14-02-2023,0
+623,KOR,South Korea,14-02-2023,0
+624,TTO,Trinidad and Tobago,14-02-2023,1
+625,TUN,Tunisia,14-02-2023,0
+626,TCA,Turks and Caicos Islands,14-02-2023,1
+627,ARE,United Arab Emirates,14-02-2023,0
+628,VUT,US Virgin Islands,14-02-2023,1
+629,VIR,Vanuatu,14-02-2023,1
+630,ASM,American Samoa,17-10-2023,1
+631,ANG,Anguilla,17-10-2023,1
+632,ATG,Antigua and Barbuda,17-10-2023,1
+633,ABW,Aruba,17-10-2023,0
+634,BHS,Bahamas,17-10-2023,1
+635,BHR,Bahrain,17-10-2023,0
+636,BRB,Barbados,17-10-2023,0
+637,BLZ,Belize,17-10-2023,1
+638,BMU,Bermuda,17-10-2023,0
+639,VGB,British Virgin Islands,17-10-2023,0
+640,CYM,Cayman Islands,17-10-2023,0
+641,CRI,Costa Rica,17-10-2023,0
+642,DMA,Dominica,17-10-2023,0
+643,FJI,Fiji,17-10-2023,1
+644,GRD,Grenada,17-10-2023,0
+645,GUM,Guam,17-10-2023,1
+646,MAC,Macau,17-10-2023,0
+647,MHL,Marshall Islands,17-10-2023,0
+648,MNG,Mongolia,17-10-2023,0
+649,NAM,Namibia,17-10-2023,0
+650,OMN,Oman,17-10-2023,0
+651,PLW,Palau,17-10-2023,1
+652,PAN,Panama,17-10-2023,1
+653,RUS,Russia,17-10-2023,1
+654,KNA,Saint Kitts and Nevis,17-10-2023,0
+655,LCA,Saint Lucia,17-10-2023,0
+656,WSM,Samoa,17-10-2023,1
+657,SYC,Seychelles,17-10-2023,1
+658,KOR,South Korea,17-10-2023,0
+659,TTO,Trinidad and Tobago,17-10-2023,1
+660,TUN,Tunisia,17-10-2023,0
+661,TCA,Turks and Caicos Islands,17-10-2023,1
+662,ARE,United Arab Emirates,17-10-2023,0
+663,VUT,US Virgin Islands,17-10-2023,1
+664,VIR,Vanuatu,17-10-2023,1
+665,ASM,American Samoa,20-02-2024,1
+666,ANG,Anguilla,20-02-2024,1
+667,ATG,Antigua and Barbuda,20-02-2024,1
+668,ABW,Aruba,20-02-2024,0
+669,BHS,Bahamas,20-02-2024,0
+670,BHR,Bahrain,20-02-2024,0
+671,BRB,Barbados,20-02-2024,0
+672,BLZ,Belize,20-02-2024,0
+673,BMU,Bermuda,20-02-2024,0
+674,VGB,British Virgin Islands,20-02-2024,0
+675,CYM,Cayman Islands,20-02-2024,0
+676,CRI,Costa Rica,20-02-2024,0
+677,DMA,Dominica,20-02-2024,0
+678,FJI,Fiji,20-02-2024,1
+679,GRD,Grenada,20-02-2024,0
+680,GUM,Guam,20-02-2024,1
+681,MAC,Macau,20-02-2024,0
+682,MHL,Marshall Islands,20-02-2024,0
+683,MNG,Mongolia,20-02-2024,0
+684,NAM,Namibia,20-02-2024,0
+685,OMN,Oman,20-02-2024,0
+686,PLW,Palau,20-02-2024,1
+687,PAN,Panama,20-02-2024,1
+688,RUS,Russia,20-02-2024,1
+689,KNA,Saint Kitts and Nevis,20-02-2024,0
+690,LCA,Saint Lucia,20-02-2024,0
+691,WSM,Samoa,20-02-2024,1
+692,SYC,Seychelles,20-02-2024,0
+693,KOR,South Korea,20-02-2024,0
+694,TTO,Trinidad and Tobago,20-02-2024,1
+695,TUN,Tunisia,20-02-2024,0
+696,TCA,Turks and Caicos Islands,20-02-2024,0
+697,ARE,United Arab Emirates,20-02-2024,0
+698,VUT,US Virgin Islands,20-02-2024,1
+699,VIR,Vanuatu,20-02-2024,1
+700,ASM,American Samoa,08-10-2024,1
+701,ANG,Anguilla,08-10-2024,1
+702,ATG,Antigua and Barbuda,08-10-2024,0
+703,ABW,Aruba,08-10-2024,0
+704,BHS,Bahamas,08-10-2024,0
+705,BHR,Bahrain,08-10-2024,0
+706,BRB,Barbados,08-10-2024,0
+707,BLZ,Belize,08-10-2024,0
+708,BMU,Bermuda,08-10-2024,0
+709,VGB,British Virgin Islands,08-10-2024,0
+710,CYM,Cayman Islands,08-10-2024,0
+711,CRI,Costa Rica,08-10-2024,0
+712,DMA,Dominica,08-10-2024,0
+713,FJI,Fiji,08-10-2024,1
+714,GRD,Grenada,08-10-2024,0
+715,GUM,Guam,08-10-2024,1
+716,MAC,Macau,08-10-2024,0
+717,MHL,Marshall Islands,08-10-2024,0
+718,MNG,Mongolia,08-10-2024,0
+719,NAM,Namibia,08-10-2024,0
+720,OMN,Oman,08-10-2024,0
+721,PLW,Palau,08-10-2024,1
+722,PAN,Panama,08-10-2024,1
+723,RUS,Russia,08-10-2024,1
+724,KNA,Saint Kitts and Nevis,08-10-2024,0
+725,LCA,Saint Lucia,08-10-2024,0
+726,WSM,Samoa,08-10-2024,1
+727,SYC,Seychelles,08-10-2024,0
+728,KOR,South Korea,08-10-2024,0
+729,TTO,Trinidad and Tobago,08-10-2024,1
+730,TUN,Tunisia,08-10-2024,0
+731,TCA,Turks and Caicos Islands,08-10-2024,0
+732,ARE,United Arab Emirates,08-10-2024,0
+733,VUT,US Virgin Islands,08-10-2024,1
+734,VIR,Vanuatu,08-10-2024,1
