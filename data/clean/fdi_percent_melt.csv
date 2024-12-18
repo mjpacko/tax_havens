@@ -1,0 +1,513 @@
+,Country,Date,FDI as percentage of capital
+0,Anguilla,2008,49.54
+1,Antigua and Barbuda,2008,30.97
+2,Aruba,2008,2.25
+3,Bahamas,2008,50.75
+4,Bahrain,2008,29.72
+5,Barbados,2008,70.81
+6,Belize,2008,44.18
+7,Bermuda,2008,6.98
+8,British Virgin Islands,2008,18426.29
+9,Cayman Islands,2008,3074.0
+10,"China, Macao SAR",2008,41.59
+11,Costa Rica,2008,31.72
+12,Dominica,2008,58.5
+13,Fiji,2008,92.8
+14,Grenada,2008,52.57
+15,Marshall Islands,2008,19.0
+16,Mongolia,2008,32.47
+17,Namibia,2008,33.52
+18,Oman,2008,12.48
+19,Palau,2008,7.92
+20,Panama,2008,27.02
+21,Republic of Korea,2008,3.45
+22,Russian Federation,2008,18.86
+23,Saint Kitts and Nevis,2008,56.56
+24,Saint Lucia,2008,38.12
+25,Samoa,2008,34.01
+26,Seychelles,2008,82.91
+27,Trinidad and Tobago,2008,90.52
+28,Tunisia,2008,26.03
+29,Turks and Caicos Islands,2008,0.0
+30,United Arab Emirates,2008,7.08
+31,Vanuatu,2008,18.4
+32,Anguilla,2009,51.88
+33,Antigua and Barbuda,2009,17.42
+34,Aruba,2009,-1.51
+35,Bahamas,2009,24.13
+36,Bahrain,2009,4.44
+37,Barbados,2009,34.11
+38,Belize,2009,38.88
+39,Bermuda,2009,-7.23
+40,British Virgin Islands,2009,16414.02
+41,Cayman Islands,2009,3418.34
+42,"China, Macao SAR",2009,21.48
+43,Costa Rica,2009,22.35
+44,Dominica,2009,60.38
+45,Fiji,2009,68.01
+46,Grenada,2009,55.58
+47,Marshall Islands,2009,83.18
+48,Mongolia,2009,36.86
+49,Namibia,2009,33.9
+50,Oman,2009,7.18
+51,Palau,2009,6.42
+52,Panama,2009,15.96
+53,Republic of Korea,2009,3.1
+54,Russian Federation,2009,9.51
+55,Saint Kitts and Nevis,2009,42.48
+56,Saint Lucia,2009,38.75
+57,Samoa,2009,5.42
+58,Seychelles,2009,89.55
+59,Trinidad and Tobago,2009,15.54
+60,Tunisia,2009,15.96
+61,Turks and Caicos Islands,2009,0.0
+62,United Arab Emirates,2009,1.55
+63,Vanuatu,2009,13.34
+64,Anguilla,2010,17.64
+65,Antigua and Barbuda,2010,29.93
+66,Aruba,2010,36.2
+67,Bahamas,2010,40.67
+68,Bahrain,2010,2.33
+69,Barbados,2010,62.79
+70,Belize,2010,40.84
+71,Bermuda,2010,26.66
+72,British Virgin Islands,2010,15844.83
+73,Cayman Islands,2010,3639.12
+74,"China, Macao SAR",2010,80.34
+75,Costa Rica,2010,22.98
+76,Dominica,2010,47.22
+77,Fiji,2010,35.23
+78,Grenada,2010,35.6
+79,Marshall Islands,2010,-13.36
+80,Mongolia,2010,65.62
+81,Namibia,2010,9.95
+82,Oman,2010,6.47
+83,Palau,2010,6.14
+84,Panama,2010,31.07
+85,Republic of Korea,2010,2.75
+86,Russian Federation,2010,8.85
+87,Saint Kitts and Nevis,2010,44.5
+88,Saint Lucia,2010,32.44
+89,Samoa,2010,0.15
+90,Seychelles,2010,70.47
+91,Trinidad and Tobago,2010,19.62
+92,Tunisia,2010,13.97
+93,Turks and Caicos Islands,2010,0.0
+94,United Arab Emirates,2010,12.12
+95,Vanuatu,2010,25.22
+96,Anguilla,2011,86.37
+97,Antigua and Barbuda,2011,27.62
+98,Aruba,2011,71.76
+99,Bahamas,2011,49.25
+100,Bahrain,2011,1.61
+101,Barbados,2011,58.08
+102,Belize,2011,37.51
+103,Bermuda,2011,-32.47
+104,British Virgin Islands,2011,19782.92
+105,Cayman Islands,2011,5355.22
+106,"China, Macao SAR",2011,15.98
+107,Costa Rica,2011,29.62
+108,Dominica,2011,41.59
+109,Fiji,2011,31.77
+110,Grenada,2011,27.51
+111,Marshall Islands,2011,-13.18
+112,Mongolia,2011,86.97
+113,Namibia,2011,29.01
+114,Oman,2011,7.92
+115,Palau,2011,15.32
+116,Panama,2011,29.03
+117,Republic of Korea,2011,2.59
+118,Russian Federation,2011,8.45
+119,Saint Kitts and Nevis,2011,46.84
+120,Saint Lucia,2011,24.33
+121,Samoa,2011,5.04
+122,Seychelles,2011,66.74
+123,Trinidad and Tobago,2011,1.62
+124,Tunisia,2011,11.21
+125,Turks and Caicos Islands,2011,0.0
+126,United Arab Emirates,2011,9.45
+127,Vanuatu,2011,33.22
+128,Anguilla,2012,86.75
+129,Antigua and Barbuda,2012,50.14
+130,Aruba,2012,-55.22
+131,Bahamas,2012,31.78
+132,Bahrain,2012,18.72
+133,Barbados,2012,71.57
+134,Belize,2012,76.33
+135,Bermuda,2012,6.78
+136,British Virgin Islands,2012,22899.24
+137,Cayman Islands,2012,3613.85
+138,"China, Macao SAR",2012,66.69
+139,Costa Rica,2012,23.87
+140,Dominica,2012,79.18
+141,Fiji,2012,46.84
+142,Grenada,2012,24.09
+143,Marshall Islands,2012,73.57
+144,Mongolia,2012,74.24
+145,Namibia,2012,31.65
+146,Oman,2012,5.65
+147,Palau,2012,38.92
+148,Panama,2012,22.23
+149,Republic of Korea,2012,2.51
+150,Russian Federation,2012,6.34
+151,Saint Kitts and Nevis,2012,49.63
+152,Saint Lucia,2012,18.84
+153,Samoa,2012,7.26
+154,Seychelles,2012,74.95
+155,Trinidad and Tobago,2012,-47.7
+156,Tunisia,2012,15.14
+157,Turks and Caicos Islands,2012,0.0
+158,United Arab Emirates,2012,12.16
+159,Vanuatu,2012,21.57
+160,Anguilla,2013,102.88
+161,Antigua and Barbuda,2013,33.77
+162,Aruba,2013,37.4
+163,Bahamas,2013,53.53
+164,Bahrain,2013,46.27
+165,Barbados,2013,15.43
+166,Belize,2013,32.25
+167,Bermuda,2013,7.79
+168,British Virgin Islands,2013,38757.14
+169,Cayman Islands,2013,5727.16
+170,"China, Macao SAR",2013,66.67
+171,Costa Rica,2013,27.15
+172,Dominica,2013,33.65
+173,Fiji,2013,22.34
+174,Grenada,2013,67.07
+175,Marshall Islands,2013,72.89
+176,Mongolia,2013,41.27
+177,Namibia,2013,20.35
+178,Oman,2013,5.99
+179,Palau,2013,36.63
+180,Panama,2013,19.68
+181,Republic of Korea,2013,3.2
+182,Russian Federation,2013,10.62
+183,Saint Kitts and Nevis,2013,55.52
+184,Saint Lucia,2013,23.87
+185,Samoa,2013,5.22
+186,Seychelles,2013,45.16
+187,Trinidad and Tobago,2013,-36.03
+188,Tunisia,2013,10.3
+189,Turks and Caicos Islands,2013,0.0
+190,United Arab Emirates,2013,13.6
+191,Vanuatu,2013,0.53
+192,Anguilla,2014,103.88
+193,Antigua and Barbuda,2014,16.4
+194,Aruba,2014,34.56
+195,Bahamas,2014,105.12
+196,Bahrain,2014,17.77
+197,Barbados,2014,77.24
+198,Belize,2014,43.38
+199,Bermuda,2014,-0.44
+200,British Virgin Islands,2014,14080.28
+201,Cayman Islands,2014,7222.95
+202,"China, Macao SAR",2014,33.18
+203,Costa Rica,2014,28.36
+204,Dominica,2014,21.36
+205,Fiji,2014,40.59
+206,Grenada,2014,59.27
+207,Marshall Islands,2014,-22.0
+208,Mongolia,2014,9.53
+209,Namibia,2014,10.11
+210,Oman,2014,4.66
+211,Palau,2014,55.51
+212,Panama,2014,21.6
+213,Republic of Korea,2014,2.16
+214,Russian Federation,2014,6.61
+215,Saint Kitts and Nevis,2014,56.71
+216,Saint Lucia,2014,30.72
+217,Samoa,2014,7.89
+218,Seychelles,2014,57.2
+219,Trinidad and Tobago,2014,14.47
+220,Tunisia,2014,10.06
+221,Turks and Caicos Islands,2014,0.0
+222,United Arab Emirates,2014,13.89
+223,Vanuatu,2014,6.35
+224,Anguilla,2015,138.77
+225,Antigua and Barbuda,2015,43.62
+226,Aruba,2015,-4.51
+227,Bahamas,2015,25.54
+228,Bahrain,2015,0.87
+229,Barbados,2015,53.01
+230,Belize,2015,18.04
+231,Bermuda,2015,-18.08
+232,British Virgin Islands,2015,21781.61
+233,Cayman Islands,2015,12466.59
+234,"China, Macao SAR",2015,9.04
+235,Costa Rica,2015,25.68
+236,Dominica,2015,18.02
+237,Fiji,2015,22.13
+238,Grenada,2015,97.97
+239,Marshall Islands,2015,-17.04
+240,Mongolia,2015,4.44
+241,Namibia,2015,25.28
+242,Oman,2015,-8.11
+243,Palau,2015,45.4
+244,Panama,2015,20.83
+245,Republic of Korea,2015,0.97
+246,Russian Federation,2015,4.22
+247,Saint Kitts and Nevis,2015,44.63
+248,Saint Lucia,2015,57.19
+249,Samoa,2015,9.61
+250,Seychelles,2015,50.53
+251,Trinidad and Tobago,2015,2.59
+252,Tunisia,2015,10.44
+253,Turks and Caicos Islands,2015,-45.12
+254,United Arab Emirates,2015,10.02
+255,Vanuatu,2015,12.41
+256,Anguilla,2016,171.54
+257,Antigua and Barbuda,2016,26.94
+258,Aruba,2016,4.82
+259,Bahamas,2016,42.73
+260,Bahrain,2016,2.93
+261,Barbados,2016,34.43
+262,Belize,2016,10.91
+263,Bermuda,2016,9.28
+264,British Virgin Islands,2016,14594.29
+265,Cayman Islands,2016,8748.73
+266,"China, Macao SAR",2016,19.68
+267,Costa Rica,2016,19.9
+268,Dominica,2016,55.34
+269,Fiji,2016,40.81
+270,Grenada,2016,56.15
+271,Marshall Islands,2016,-7.75
+272,Mongolia,2016,-199.16
+273,Namibia,2016,15.2
+274,Oman,2016,7.67
+275,Palau,2016,79.26
+276,Panama,2016,20.7
+277,Republic of Korea,2016,2.72
+278,Russian Federation,2016,13.31
+279,Saint Kitts and Nevis,2016,40.95
+280,Saint Lucia,2016,42.62
+281,Samoa,2016,0.87
+282,Seychelles,2016,39.38
+283,Trinidad and Tobago,2016,-0.32
+284,Tunisia,2016,9.73
+285,Turks and Caicos Islands,2016,9.74
+286,United Arab Emirates,2016,11.35
+287,Vanuatu,2016,24.59
+288,Anguilla,2017,175.53
+289,Antigua and Barbuda,2017,29.28
+290,Aruba,2017,14.81
+291,Bahamas,2017,27.43
+292,Bahrain,2017,14.18
+293,Barbados,2017,26.82
+294,Belize,2017,7.01
+295,Bermuda,2017,-29.31
+296,British Virgin Islands,2017,12656.14
+297,Cayman Islands,2017,2086.16
+298,"China, Macao SAR",2017,15.11
+299,Costa Rica,2017,25.26
+300,Dominica,2017,4.17
+301,Fiji,2017,37.54
+302,Grenada,2017,75.0
+303,Marshall Islands,2017,12.12
+304,Mongolia,2017,58.24
+305,Namibia,2017,12.11
+306,Oman,2017,11.09
+307,Palau,2017,51.69
+308,Panama,2017,16.89
+309,Republic of Korea,2017,3.5
+310,Russian Federation,2017,7.5
+311,Saint Kitts and Nevis,2017,16.6
+312,Saint Lucia,2017,22.5
+313,Samoa,2017,3.14
+314,Seychelles,2017,45.39
+315,Trinidad and Tobago,2017,-9.02
+316,Tunisia,2017,10.42
+317,Turks and Caicos Islands,2017,13.25
+318,United Arab Emirates,2017,14.12
+319,Vanuatu,2017,15.98
+320,Anguilla,2018,146.56
+321,Antigua and Barbuda,2018,32.43
+322,Aruba,2018,15.93
+323,Bahamas,2018,29.45
+324,Bahrain,2018,14.85
+325,Barbados,2018,33.67
+326,Belize,2018,31.13
+327,Bermuda,2018,9.85
+328,British Virgin Islands,2018,10376.88
+329,Cayman Islands,2018,2362.36
+330,"China, Macao SAR",2018,28.26
+331,Costa Rica,2018,21.89
+332,Dominica,2018,53.2
+333,Fiji,2018,44.89
+334,Grenada,2018,79.66
+335,Marshall Islands,2018,21.47
+336,Mongolia,2018,61.44
+337,Namibia,2018,9.04
+338,Oman,2018,20.08
+339,Palau,2018,64.69
+340,Panama,2018,18.23
+341,Republic of Korea,2018,2.33
+342,Russian Federation,2018,3.86
+343,Saint Kitts and Nevis,2018,13.79
+344,Saint Lucia,2018,13.23
+345,Samoa,2018,6.17
+346,Seychelles,2018,-16.85
+347,Trinidad and Tobago,2018,-16.89
+348,Tunisia,2018,12.38
+349,Turks and Caicos Islands,2018,23.12
+350,United Arab Emirates,2018,14.16
+351,Vanuatu,2018,16.0
+352,Anguilla,2019,222.5
+353,Antigua and Barbuda,2019,16.75
+354,Aruba,2019,-18.91
+355,Bahamas,2019,18.33
+356,Bahrain,2019,14.41
+357,Barbados,2019,28.26
+358,Belize,2019,23.46
+359,Bermuda,2019,0.46
+360,British Virgin Islands,2019,10811.32
+361,Cayman Islands,2019,2944.1
+362,"China, Macao SAR",2019,87.64
+363,Costa Rica,2019,26.86
+364,Dominica,2019,52.72
+365,Fiji,2019,32.42
+366,Grenada,2019,88.19
+367,Marshall Islands,2019,3.71
+368,Mongolia,2019,61.46
+369,Namibia,2019,-9.06
+370,Oman,2019,7.6
+371,Palau,2019,52.51
+372,Panama,2019,15.12
+373,Republic of Korea,2019,1.94
+374,Russian Federation,2019,9.06
+375,Saint Kitts and Nevis,2019,12.87
+376,Saint Lucia,2019,21.03
+377,Samoa,2019,-1.4
+378,Seychelles,2019,7.36
+379,Trinidad and Tobago,2019,4.03
+380,Tunisia,2019,10.37
+381,Turks and Caicos Islands,2019,13.73
+382,United Arab Emirates,2019,23.46
+383,Vanuatu,2019,23.49
+384,Anguilla,2020,100.62
+385,Antigua and Barbuda,2020,10.4
+386,Aruba,2020,23.62
+387,Bahamas,2020,39.38
+388,Bahrain,2020,10.21
+389,Barbados,2020,31.21
+390,Belize,2020,21.61
+391,Bermuda,2020,13.29
+392,British Virgin Islands,2020,11604.68
+393,Cayman Islands,2020,2209.0
+394,"China, Macao SAR",2020,-94.09
+395,Costa Rica,2020,17.47
+396,Dominica,2020,4.28
+397,Fiji,2020,29.51
+398,Grenada,2020,48.63
+399,Marshall Islands,2020,6.18
+400,Mongolia,2020,54.77
+401,Namibia,2020,-10.13
+402,Oman,2020,7.99
+403,Palau,2020,47.8
+404,Panama,2020,1.28
+405,Republic of Korea,2020,1.7
+406,Russian Federation,2020,3.23
+407,Saint Kitts and Nevis,2020,-0.18
+408,Saint Lucia,2020,28.21
+409,Samoa,2020,1.68
+410,Seychelles,2020,55.82
+411,Trinidad and Tobago,2020,22.61
+412,Tunisia,2020,9.68
+413,Turks and Caicos Islands,2020,20.1
+414,United Arab Emirates,2020,29.75
+415,Vanuatu,2020,13.91
+416,Anguilla,2021,107.11
+417,Antigua and Barbuda,2021,44.26
+418,Aruba,2021,22.12
+419,Bahamas,2021,39.61
+420,Bahrain,2021,18.4
+421,Barbados,2021,28.4
+422,Belize,2021,25.82
+423,Bermuda,2021,0.16
+424,British Virgin Islands,2021,11281.49
+425,Cayman Islands,2021,2068.22
+426,"China, Macao SAR",2021,76.57
+427,Costa Rica,2021,28.07
+428,Dominica,2021,13.97
+429,Fiji,2021,48.73
+430,Grenada,2021,59.47
+431,Marshall Islands,2021,1.0
+432,Mongolia,2021,52.98
+433,Namibia,2021,42.73
+434,Oman,2021,38.92
+435,Palau,2021,42.7
+436,Panama,2021,8.92
+437,Republic of Korea,2021,3.83
+438,Russian Federation,2021,10.69
+439,Saint Kitts and Nevis,2021,9.43
+440,Saint Lucia,2021,34.99
+441,Samoa,2021,3.3
+442,Seychelles,2021,91.78
+443,Trinidad and Tobago,2021,-34.32
+444,Tunisia,2021,8.85
+445,Turks and Caicos Islands,2021,16.75
+446,United Arab Emirates,2021,23.4
+447,Vanuatu,2021,8.34
+448,Anguilla,2022,80.27
+449,Antigua and Barbuda,2022,46.43
+450,Aruba,2022,35.82
+451,Bahamas,2022,47.52
+452,Bahrain,2022,22.87
+453,Barbados,2022,20.76
+454,Belize,2022,23.94
+455,Bermuda,2022,1.05
+456,British Virgin Islands,2022,10842.68
+457,Cayman Islands,2022,2104.68
+458,"China, Macao SAR",2022,64.52
+459,Costa Rica,2022,25.91
+460,Dominica,2022,7.3
+461,Fiji,2022,11.77
+462,Grenada,2022,46.05
+463,Marshall Islands,2022,3.94
+464,Mongolia,2022,48.99
+465,Namibia,2022,60.45
+466,Oman,2022,20.6
+467,Palau,2022,81.04
+468,Panama,2022,12.6
+469,Republic of Korea,2022,4.65
+470,Russian Federation,2022,-3.28
+471,Saint Kitts and Nevis,2022,15.56
+472,Saint Lucia,2022,16.98
+473,Samoa,2022,1.61
+474,Seychelles,2022,53.13
+475,Trinidad and Tobago,2022,-70.35
+476,Tunisia,2022,10.52
+477,Turks and Caicos Islands,2022,18.76
+478,United Arab Emirates,2022,24.18
+479,Vanuatu,2022,1.91
+480,Anguilla,2023,115.71
+481,Antigua and Barbuda,2023,46.57
+482,Aruba,2023,-24.42
+483,Bahamas,2023,55.26
+484,Bahrain,2023,56.67
+485,Barbados,2023,23.34
+486,Belize,2023,8.45
+487,Bermuda,2023,16.55
+488,British Virgin Islands,2023,11346.39
+489,Cayman Islands,2023,2408.03
+490,"China, Macao SAR",2023,41.36
+491,Costa Rica,2023,32.11
+492,Dominica,2023,8.84
+493,Fiji,2023,10.32
+494,Grenada,2023,48.4
+495,Marshall Islands,2023,3.12
+496,Mongolia,2023,43.97
+497,Namibia,2023,132.25
+498,Oman,2023,17.84
+499,Palau,2023,53.81
+500,Panama,2023,8.74
+501,Republic of Korea,2023,2.82
+502,Russian Federation,2023,1.8
+503,Saint Kitts and Nevis,2023,11.98
+504,Saint Lucia,2023,40.6
+505,Samoa,2023,-0.98
+506,Seychelles,2023,59.74
+507,Trinidad and Tobago,2023,-85.15
+508,Tunisia,2023,11.32
+509,Turks and Caicos Islands,2023,17.5
+510,United Arab Emirates,2023,32.64
+511,Vanuatu,2023,1.64
